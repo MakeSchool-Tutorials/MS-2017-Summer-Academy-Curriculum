@@ -24,7 +24,7 @@ slug: lecture-videos
 - [Animations with UIKit](https://www.youtube.com/watch?v=Zts_vU1dn-I)
 - [Debugging Memory Issues with Xcode and Profiler](https://www.youtube.com/watch?v=wQmflj8jOvg)
 
-###Auto Layout
+####Auto Layout
 
 - [Auto Layout 1 - Intro](https://www.youtube.com/watch?v=MEhDeQurPqg)
 - [Auto Layout 2 - First Constraints](https://www.youtube.com/watch?v=evILiMVw01E)
