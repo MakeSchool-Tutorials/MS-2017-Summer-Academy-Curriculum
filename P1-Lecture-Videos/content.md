@@ -4,7 +4,7 @@ slug: lecture-videos
 ---
 
 
-#iOS, Swift, Xcode
+##iOS, Swift, Xcode
 
 - [Introduction to Swift](https://www.youtube.com/watch?v=bfPq7w9YFIE)
 - [Introduction to XCode and Debuging](https://www.youtube.com/watch?v=9TX5aNmMvDU)
@@ -13,7 +13,7 @@ slug: lecture-videos
 - [Working with Libraries in Swift](https://www.youtube.com/watch?v=fvaY22g2R0w)
 - [Reading Objective-C for Swift Developers](https://www.youtube.com/watch?v=ycQ3opOmXsA)
 
-#Apps
+##Apps
 
 - [Introduction to Make School Notes](https://www.youtube.com/watch?v=W7GabrpMLMg)
 - [Introduction to Makestagram](https://www.youtube.com/watch?v=Wd-ZPtc_kNI)
@@ -24,7 +24,7 @@ slug: lecture-videos
 - [Animations with UIKit](https://www.youtube.com/watch?v=Zts_vU1dn-I)
 - [Debugging Memory Issues with Xcode and Profiler](https://www.youtube.com/watch?v=wQmflj8jOvg)
 
-##Auto Layout
+###Auto Layout
 
 - [Auto Layout 1 - Intro](https://www.youtube.com/watch?v=MEhDeQurPqg)
 - [Auto Layout 2 - First Constraints](https://www.youtube.com/watch?v=evILiMVw01E)
@@ -38,7 +38,7 @@ slug: lecture-videos
 - [Auto Layout - Scroll View](https://www.youtube.com/watch?v=n7HL8Ym0dDw)
 - [Auto Layout - Auto Resize Table View Cells](https://www.youtube.com/watch?v=rgazh3vixQw)
 
-#Games
+##Games
 
 - [Game Analysis](https://www.youtube.com/watch?v=vmFvZwFvWBo)
 - [Analytical Game Design - Core Loops, Compulsion Loops](https://www.youtube.com/watch?v=9SLxpCVnrFI)
@@ -47,7 +47,7 @@ slug: lecture-videos
 - [Designing for Multiple Screen Sizes](https://www.youtube.com/watch?v=_QRlxn0UQH8)
 - [Physics and Cocos2D](https://www.youtube.com/watch?v=yVleeupFCoM)
 
-#Your Projects
+##Your Projects
 
 - [Productive Brainstorming](https://www.youtube.com/watch?v=GeVZ9cOKnHw)
 - [Respecting Copyright](https://www.youtube.com/watch?v=XdXAgTHRulM)
@@ -60,7 +60,7 @@ slug: lecture-videos
 - [How Startups Work](https://www.youtube.com/watch?v=4MXMFUIUz2w)
 - [Branding](https://www.youtube.com/watch?v=biLEMPz6MDI)
 
-#Guest Speakers
+##Guest Speakers
 
 - [Alex Kouts - Empathetic Design](https://www.youtube.com/watch?v=wRtWI7gDL9I)
 - [Joanna Hoffman - Apple, Steve Jobs and Startup Culture](https://www.youtube.com/watch?v=LEXY6HSfgLQ)
